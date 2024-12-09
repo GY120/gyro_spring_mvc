@@ -23,9 +23,15 @@
     <div id="namedisp"></div>
 
 <p style="text-align: center;">
+	<!-- 
 	
     <a href="${pageContext.request.contextPath}/fileupload">文件上传</a><br>
     <a href="${pageContext.request.contextPath}/filedownload">文件下载</a>
+   
+	 -->
+ 
+	<a href="fileupload">文件上传</a><br>
+	<a href="filedownload">文件下载</a>
 </p>
 
 
